@@ -1,0 +1,15 @@
+**/work
+
+*.mpf
+*.wlf
+*.do
+*.cr.mti
+
+transcript
+
+*.map
+*.gds
+*.sdf
+*.rpt
+
+Default.globals
